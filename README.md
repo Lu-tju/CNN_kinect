@@ -11,4 +11,4 @@ vid skeleton是动态显示骨架线;
 
 SkeletonView 是绘制骨架线的函数;
 
-文件夹内的get_poin_data是直接得到骨骼点数据，存储并用来训练;
+文件夹内的get_poin_data是直接得到骨骼点数据，存储并用来训练pb神经网络;
